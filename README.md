@@ -29,7 +29,7 @@ More privacy. More mystery. More boi.
 
 How to Use
 
-Run the script called FuckAssThingyTest from the repo.
+Run the script called FuckAssThingyTest(.exe) from the release tab.
 Yes, the name is intentional. Yes, it’s amazing.
 
 It will automatically open your default browser.
