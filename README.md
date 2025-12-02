@@ -1,3 +1,6 @@
+
+CHECK RELEASES TAB FOR LATEST VERSION
+
 The .boi Compressor
 
 Welcome!
@@ -46,9 +49,11 @@ Important Notes
 Closing the browser does not stop the program.
 To fully close it, you need to manually end the process (Task Manager/System Monitor).
 
-It should run fine on most Linux setups.
+It should run fine on most Linux/Windows setups.
 If it doesn’t… that’s because computers are weird.
 
 Why .boi?
 
 Why not?
+
+CHECK RELEASES TAB FOR LATEST VERSION
