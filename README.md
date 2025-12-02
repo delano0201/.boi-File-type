@@ -5,7 +5,7 @@ You’re probably here for the star of the show:
 
 The very cool, extremely advanced, definitely‐not-cursed .boi compressor and decompressor.
 
-Right now it supports Linux only, but Windows support is on the way.
+Right now it supports Linux and windows. 
 
 What Does It Do?
 
